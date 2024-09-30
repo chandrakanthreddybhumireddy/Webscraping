@@ -28,6 +28,6 @@ df["Price"] = price
 df["Image"] = rate
 
 
-df.to_csv('chandr.csv')
+df.to_csv('chandra.csv')
 
 
